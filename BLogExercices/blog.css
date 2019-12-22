@@ -1,0 +1,25 @@
+body {
+    border: 20px solid rgb(145, 144, 144);
+   margin: 5% 20%;
+    padding: 40px;
+}
+
+.date {
+    color: blue;
+    font-style:normal;
+}
+
+h2 {
+    font-family: lobster;
+    font-size: xx-large;
+}
+.article{
+    margin-top: 50px;
+}
+.paragraf {
+    border-left: 5px solid grey;
+    padding-left: 5px;
+}
+hr{
+    margin-top: 40px;
+}
